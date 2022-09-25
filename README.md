@@ -1,6 +1,6 @@
 # Spatial Temporal Network for Image and Skeleton Based Group Activity Recognition
 
-This repo contains code of our paper "Spatial Temporal Network for Image and Skeleton Based Group Activity Recognition." 
+This repo contains code of our paper "Spatial Temporal Network for Image and Skeleton Based Group Activity Recognition". 
 
 _Xiaolin Zhai, Zhengxi Hu, Dingye Yang, Lei Zhou and Jingtai Liu_
         
