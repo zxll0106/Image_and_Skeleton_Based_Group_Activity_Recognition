@@ -22,4 +22,4 @@ We provide the extended skeleton data of the Collective Activity Dataset and Vol
 
 ## Acknowledgement
 
-We thank for the part of code of DIN and ST-GCN, whose github repo is [DIN code](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark) and [ST-GCN code](https://github.com/yysijie/st-gcn). We thank the authors for releasing their code.
+We thank for the part of code of DIN and ST-GCN, whose github repo are [DIN code](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark) and [ST-GCN code](https://github.com/yysijie/st-gcn). We thank the authors for releasing their code.
