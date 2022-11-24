@@ -25,3 +25,14 @@ We provide the extended skeleton data of the Collective Activity Dataset and Vol
 We thank for the part of code of DIN and ST-GCN, whose github repo are [DIN code](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark) and [ST-GCN code](https://github.com/yysijie/st-gcn). We thank the authors for releasing their code.
 
 ## Citation
+
+```shell
+  @InProceedings{Zhai_2022_ACCV,
+    author    = {Zhai, Xiaolin and Hu, Zhengxi and Yang, Dingye and Zhou, Lei and Liu, Jingtai},
+    title     = {Spatial Temporal Network for Image and Skeleton Based Group Activity Recognition},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {December},
+    year      = {2022},
+    pages     = {20-38}
+}
+  ```
