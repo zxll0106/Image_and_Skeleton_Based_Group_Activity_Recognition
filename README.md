@@ -18,7 +18,7 @@ _Xiaolin Zhai, Zhengxi Hu, Dingye Yang, Lei Zhou and Jingtai Liu_
 
 ## Extended Human Skeleton Data
 
-We provide the extended skeleton data of the Collective Activity Dataset and Volleyball Dataset in [Skeleton_data](https://pan.baidu.com/s/1trCJtfyV3yQ7j8VMRZlG-w)(password:m7g0).
+We provide the extended skeleton data of the Collective Activity Dataset and Volleyball Dataset in [Skeleton_data](https://pan.baidu.com/s/1dElXsxZgWe2WG2SuOt5S5Q)(password:6eag).
 
 ## Acknowledgement
 
