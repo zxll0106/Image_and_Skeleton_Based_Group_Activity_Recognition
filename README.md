@@ -1,4 +1,4 @@
-# Spatial Temporal Network for Image and Skeleton Based Group Activity Recognition
+# Spatial Temporal Network for Image and Skeleton Based Group Activity Recognition (ACCV 2022)
 
 This repo contains code of our paper "Spatial Temporal Network for Image and Skeleton Based Group Activity Recognition". 
 
@@ -23,3 +23,5 @@ We provide the extended skeleton data of the Collective Activity Dataset and Vol
 ## Acknowledgement
 
 We thank for the part of code of DIN and ST-GCN, whose github repo are [DIN code](https://github.com/JacobYuan7/DIN-Group-Activity-Recognition-Benchmark) and [ST-GCN code](https://github.com/yysijie/st-gcn). We thank the authors for releasing their code.
+
+## Citation
