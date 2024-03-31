@@ -1,10 +1,10 @@
 # Spatial Temporal Network for Image and Skeleton Based Group Activity Recognition (ACCV 2022)
 
-This repo contains code of our paper "[Spatial Temporal Network for Image and Skeleton Based Group Activity Recognition](https://openaccess.thecvf.com/content/ACCV2022/papers/Zhai_Spatial_Temporal_Network_for_Image_and_Skeleton_Based_Group_Activity_ACCV_2022_paper.pdf)". 
+This repo contains code of our paper "Spatial Temporal Network for Image and Skeleton Based Group Activity Recognition". 
 
 _Xiaolin Zhai, Zhengxi Hu, Dingye Yang, Lei Zhou and Jingtai Liu_
         
-
+[[paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Zhai_Spatial_Temporal_Network_for_Image_and_Skeleton_Based_Group_Activity_ACCV_2022_paper.pdf)]
 
 ## Dependencies
 
